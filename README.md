@@ -1,16 +1,8 @@
 # ssv_carpooling
 
-A new Flutter project.
+Dart & Flutter app built during the Hackaburg 2019. I've tried using Google Maps API for the first time, using official Maps library for Flutter.
 
-## Getting Started
+App was built in a few hours, and it's just a static application with most of it's widgets hardcoded. 
+I keep it here for my own reference.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+Feel free to use some of the custom widgets.
